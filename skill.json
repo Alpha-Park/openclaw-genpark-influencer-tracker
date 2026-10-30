@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-genpark-influencer-tracker",
+  "version": "1.0.0",
+  "description": "Audits influencer promotional ROI, tracks affiliate coupon conversions, and benchmarks CPM metrics",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
